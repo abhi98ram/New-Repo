@@ -1,1 +1,2 @@
 New file is created & it will be committed to remote repo. It will be modified now
+Test for seeing the changes will be committed or not
